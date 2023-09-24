@@ -69,3 +69,4 @@ xlog.app##div.virtuoso-grid-item:has(a[href^="/post/xn--wcs021m-3831/"])
 
 ! https://www.bilibili.com
 www.bilibili.com##.adblock-tips
+t.bilibili.com##div.bili-dyn-list__item:has(a:has-text(/充电专属/i))
