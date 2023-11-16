@@ -51,6 +51,7 @@ infoq.cn##.slot-extra
 juejin.cn##.main-header-box
 juejin.cn##.shadow.entry-list-container.recommended-area.main-area
 juejin.cn##.global-float-banner
+juejin.cn##.wechat-sidebar-block.sidebar-block
 smzdm.com###footer
 smzdm.com###global-search
 smzdm.com###feed-side
@@ -65,6 +66,9 @@ smzdm.com##.guess-like
 smzdm.com##.z-stuff-bar
 smzdm.com##.feed-hot-hits
 v2ex.com###Bottom
+v2ex.com##div.box:nth-of-type(11)
+v2ex.com##div.box:nth-of-type(13)
+v2ex.com###TopicsHot
 iplaysoft.com###footer
 iplaysoft.com##.entry-meta
 iplaysoft.com###header
@@ -73,3 +77,9 @@ iplaysoft.com##.nav
 iplaysoft.com###sidebar
 guokr.com###footer
 guokr.com##.Header__HeaderWrap-sc-1rwyaav-0
+bilibili.com##.adblock-tips
+share.dmhy.org##.clear
+share.dmhy.org##.header
+share.dmhy.org###mini_jmd
+share.dmhy.org##.footer
+share.dmhy.org##.user-sidebar
