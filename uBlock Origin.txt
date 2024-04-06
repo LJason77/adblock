@@ -89,9 +89,3 @@ xlog.app##div.virtuoso-grid-item:has(a[href^="/post/imsun/"])
 xlog.app##div.virtuoso-grid-item:has(a[href^="/post/xlog/"])
 xlog.app##div.virtuoso-grid-item:has(a[href^="/post/xn--l9va-8205/"])
 xlog.app##div.virtuoso-grid-item:has(a[href^="/post/xn--wcs021m-3831/"])
-
-! https://www.bilibili.com
-t.bilibili.com##div.bili-dyn-list__item:has(div:has-text(/充电专属/i))
-t.bilibili.com##div.bili-dyn-list__item:has(div.bili-dyn-upower-lottery)
-t.bilibili.com##div.bili-dyn-list__item:has(div.bili-dyn-card-reserve)
-t.bilibili.com##div.bili-dyn-list__item:has(div.dyn-blocked-mask.feed-item)
