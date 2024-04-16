@@ -1,6 +1,9 @@
 bilibili.com##.adblock-tips
 live.bilibili.com###combo-card
+search.bilibili.com##.biliMainFooterWrapper
+t.bilibili.com##.right
 t.bilibili.com##div.bili-dyn-list__item:has(div:has-text(/充电专属/i))
 t.bilibili.com##div.bili-dyn-list__item:has(div.bili-dyn-card-reserve)
 t.bilibili.com##div.bili-dyn-list__item:has(div.bili-dyn-upower-lottery)
 t.bilibili.com##div.bili-dyn-list__item:has(div.dyn-blocked-mask.feed-item)
+www.bilibili.com##.bpx-player-video-info
