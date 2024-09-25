@@ -16,6 +16,7 @@ deepl.com##.BasePageHeader-module--stickyHeader--Ofk9B.BasePageHeader-module--co
 deepl.com##.lg\:px-\[70px\].px-8.bg-white.w-full
 deepl.com##.pageFooterV2-module--footerOuterContainer--CwVcZ
 deepl.com##div.lg\:px-\[70px\].p-8:nth-of-type(4)
+dev.epicgames.com##.site-footer
 facebook.com
 gcores.com##.footer
 gcores.com##.navLayout_side
@@ -67,10 +68,12 @@ smzdm.com###feed-side
 smzdm.com###footer
 smzdm.com###global-search
 smzdm.com###sub-header
+v.qq.com##.playlist-side__sub
 v2ex.com###Bottom
 v2ex.com###TopicsHot
 v2ex.com##div.box:nth-of-type(11)
 v2ex.com##div.box:nth-of-type(13)
+www.deepl.com##div.lg\:px-\[70px\].p-8:nth-of-type(5)
 yystv.cn##.fixed-container
 yystv.cn##.footer.clearfix
 yystv.cn##.nav-gap

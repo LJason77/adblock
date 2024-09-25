@@ -7,3 +7,4 @@ t.bilibili.com##div.bili-dyn-list__item:has(div.bili-dyn-card-reserve)
 t.bilibili.com##div.bili-dyn-list__item:has(div.bili-dyn-upower-lottery)
 t.bilibili.com##div.bili-dyn-list__item:has(div.dyn-blocked-mask.feed-item)
 www.bilibili.com##.bpx-player-video-info
+www.bilibili.com##div.feed-card[style="display: none;"]
