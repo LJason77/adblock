@@ -65,6 +65,7 @@ v2ex.com##div.item.cell:has(a[href^="/go/wechat"])
 v2ex.com##div.item.cell:has(a[href^="/go/xboxseries"])
 v2ex.com##div.item.cell:has(a[href^="/go/xcode"])
 v2ex.com##div.item.cell:has(a[href^="/go/xian"])
+! v2ex.com##div.item.cell:has(a:has-text(/(claude|cursor|Xcode|vivo|React|抖音|旁路由|上海|AirPods|Centos|flutter|ios|iPad|iPhone|java|mac|MiUI|nas)/i))
 
 ! https://xlog.app
 xlog.app##div.virtuoso-grid-item:has(a[href^="/post/a8blog-2007/"])
@@ -77,3 +78,11 @@ xlog.app##div.virtuoso-grid-item:has(a[href^="/post/xn--l9va-8205/"])
 xlog.app##div.virtuoso-grid-item:has(a[href^="/post/xn--wcs021m-3831/"])
 
 www.reddit.com##shreddit-comment[author="AutoModerator"]
+
+www.youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer.style-scope:has(p.ytd-badge-supported-renderer:has-text(会员专享))
+www.youtube.com##.ytd-video-renderer.style-scope:has(a[href^="/@TencentVideoAnimation"])
+www.youtube.com##.ytd-video-renderer.style-scope:has(a[href^="/@xuntingman666"])
+www.youtube.com##.ytd-video-renderer.style-scope:has(a[href^="/@iQIYIAnime"])
+www.youtube.com##.ytd-video-renderer.style-scope:has(a[href^="/@Tingxiaoshuo125"])
+
+||www.cnblogs.com/skins/arrow/images/bg.gif$image

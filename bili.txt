@@ -1,6 +1,10 @@
+! t.bilibili.com##div.bili-dyn-list__item:has(span:has-text(/(舞蹈区小锦鲤|哔哩哔哩数字周边)/))
+! t.bilibili.com##div.bili-dyn-live-users__container:has(div.bili-dyn-live-users__item__uname:has-text(/(AA|BB)/i))
 bilibili.com##.adblock-tips
+bilibili.com###bilibiliHelper2HandleButtonWrapper
 live.bilibili.com###combo-card
 search.bilibili.com##.biliMainFooterWrapper
+space.bilibili.com##div.upload-video-card.grid-mode:has(div.bili-cover-card__tag.charge-tag)
 t.bilibili.com##.right
 t.bilibili.com##div.bili-dyn-list__item:has(div:has-text(/充电专属/i))
 t.bilibili.com##div.bili-dyn-list__item:has(div.bili-dyn-card-reserve)
@@ -8,4 +12,3 @@ t.bilibili.com##div.bili-dyn-list__item:has(div.bili-dyn-upower-lottery)
 t.bilibili.com##div.bili-dyn-list__item:has(div.dyn-blocked-mask.feed-item)
 www.bilibili.com##.bpx-player-video-info
 www.bilibili.com##div.feed-card[style="display: none;"]
-space.bilibili.com##div.upload-video-card.grid-mode:has(div.bili-cover-card__tag.charge-tag)

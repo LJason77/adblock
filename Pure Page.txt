@@ -38,6 +38,7 @@ iplaysoft.com###footer
 iplaysoft.com###header
 iplaysoft.com###sidebar
 ithome.com##.at-bottom.fix-top.fx.fr
+ithome.com##.bb.-hongbao-container
 ithome.com##.cv
 ithome.com##.dajia
 ithome.com##.newsgrade
@@ -68,12 +69,16 @@ smzdm.com###feed-side
 smzdm.com###footer
 smzdm.com###global-search
 smzdm.com###sub-header
+tieba.baidu.com##div.top-sec.clearfix
 v.qq.com##.playlist-side__sub
 v2ex.com###Bottom
 v2ex.com###TopicsHot
-v2ex.com##div.box:nth-of-type(11)
-v2ex.com##div.box:nth-of-type(13)
+v2ex.com##div.box:has(span.fade:has-text(/(最近新增节点|社区运行状况)/))
+v2ex.com##div.box:has(span.fade:has(strong))
 www.deepl.com##div.lg\:px-\[70px\].p-8:nth-of-type(5)
+www.fofoyy.com##.lists-title-lines-1.lists-thumb-top.lists-filter.lists > .container
+www.fofoyy.com##div#ddz2
+www.youtube.com##ytd-rich-section-renderer
 yystv.cn##.fixed-container
 yystv.cn##.footer.clearfix
 yystv.cn##.nav-gap
